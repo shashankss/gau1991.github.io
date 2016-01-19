@@ -23,15 +23,15 @@ baseurl: ""
 author:
   name      : Gaurav Ashtikar
   gravatar  : b870ad36ac8e56abaabdb2640fba4bbf
-  job       : System Administrator
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
-  thumb     : /images/author.jpg
+  job       : Linux System Administrator
+  bio       : "Linux and Open Source maniac, passionate to solve problems in real world"
   email     : gau1991@gmail.com
   url       : http://gau1991.github.io
   github    : http://github.com/gau1991
   twitter   : http://twitter.com/gau1992
   facebook  : http://facebook.com/gau1991
   linkedin  : http://linkedin.com/in/gau1991
+  googleplus : https://plus.google.com/+GauravAshtikar1
 
 # navbar pages
 navbar:
