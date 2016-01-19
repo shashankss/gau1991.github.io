@@ -6,13 +6,13 @@ layout: home
 
   <div class="hero-inner container">
 
-    <img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb" class="dot">
+    <img src="//s.gravatar.com/avatar/{{ site.author.gravatar }}?s=150" alt="author thumb" class="dot">
     <h1>Hello!..</h1>
     <h3>I'm <strong itemprop="name">{{ site.author.name }}</strong>, a <em itemprop="jobTitle">{{ site.author.job }}</em>.</h3>
     <h3>{{ site.author.bio }}</h3>
 
     <a href="{{ '/Resume' | prepend: site.baseurl }}" class="btn btn-ghost">Resume</a>
- 
+
     {% include social.html %}
 
   </div>

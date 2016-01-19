@@ -22,6 +22,7 @@ baseurl: ""
 # Author settings
 author:
   name      : Gaurav Ashtikar
+  gravatar  : b870ad36ac8e56abaabdb2640fba4bbf
   job       : System Administrator
   bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
   thumb     : /images/author.jpg
