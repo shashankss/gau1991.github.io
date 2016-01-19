@@ -49,6 +49,8 @@ July 2013 – May 2014 | Pune Area, India
 * DoudouLinux is specially designed for children to make computer use as easy and pleasant as possible for them
 * DoudouLinux provides tens of applications that suit children from 2 to 12 years old and gives them an environment as easy to use as a gaming console.
 
+<br>
+
 <h5><b>Pragat Cluster Automation Toolkit</b></h5>
 
 * Python and PHP based Automation Toolkit to Mass deploy Cent OS based OpenMPI clusters.
