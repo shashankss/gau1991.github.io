@@ -1,0 +1,47 @@
+# Build settings
+permalink   : /blog/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: Gaurav Ashtikar
+description: "Gaurav Ashtikar Resume"
+keywords: "Gaurav, Ashtikar, resume"
+url: https://gau1991.github.io
+baseurl: ""
+
+# Author settings
+author:
+  name      : Gaurav Ashtikar
+  job       : System Administrator
+  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  thumb     : /images/author.jpg
+  email     : gau1991@gmail.com
+  url       : http://gau1991.github.io
+  github    : http://github.com/gau1991
+  twitter   : http://twitter.com/gau1992
+  facebook  : http://facebook.com/gau1991
+  linkedin  : http://linkedin.com/in/gau1991
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  # - slug: resume
+  #   title: Resume
+  # - slug: skills
+  #   title: Skills
+  - slug: blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
