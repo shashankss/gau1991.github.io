@@ -14,24 +14,24 @@ sass:
 
 # SEO settings
 title: Gaurav Ashtikar
-description: "Gaurav Ashtikar Resume"
+description: "Shashank Sonawane Resume"
 keywords: "Gaurav, Ashtikar, resume"
-url: http://gau1991.me
+url: http://shashankprofile.github.me
 baseurl: ""
 
 # Author settings
 author:
-  name      : Gaurav Ashtikar
+  name      : Shashank Sonawane
   gravatar  : b870ad36ac8e56abaabdb2640fba4bbf
-  job       : Linux System Administrator
-  bio       : "Linux and Open Source maniac, passionate to solve problems in real world"
-  email     : gau1991@gmail.com
-  url       : http://gau1991.github.io
-  github    : http://github.com/gau1991
-  twitter   : http://twitter.com/gau1992
-  facebook  : http://facebook.com/gau1991
-  linkedin  : http://linkedin.com/in/gau1991
-  googleplus : https://plus.google.com/+GauravAshtikar1
+  job       : Technical Account Engineer
+  bio       : "DHCP,SIP,VOICE IP Provisining expert, Linux,shell,java debugger, passionate to solve problems in real world"
+  email     : shashankss.sonawane@gmail.com
+  url       : http://shashankprofile.github.me
+  github    : http://shashankprofile.github.me
+  twitter   : http://shashankprofile.github.me
+  facebook  : http:://shashankprofile.github.me
+  linkedin  : http:://shashankprofile.github.me
+  googleplus : https://shashankprofile.github.me
 
 # navbar pages
 navbar:
