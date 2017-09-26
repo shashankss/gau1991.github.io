@@ -42,8 +42,8 @@ June 2014 – Present | Pune Area, India
 
 <h5><a style="color: #428bca">NCS_to_SIP Migration</a></h5>
 
-•   Project Involved Migrating customer from VOICE protocol to new SIP protocol with supporting calling feature.
-•   Patch deployment on all customer env(local/UAT/Prod)
+•  Project Involved Migrating customer from VOICE protocol to new SIP protocol with supporting calling feature.
+•  Patch deployment on all customer env(local/UAT/Prod)
 •	Configuring SIP related changes
 •	Identifying the gaps & troubleshooting the issue for successful delivery as a part of post deployment support.
 •	Supported QA in solution testing, to build quality solution.
@@ -97,10 +97,13 @@ May 2009 – June 2013 | Sangli Area, India
 
 
 #### Honor and Awards:
-• Received exceed expectation & employee of the month award for the contribution of preparing method of procedure to support geo-redundancy as of need of customer.
-• Received exceed expectation & employee of the month award for supporting customer in triage situation to recover the lost data & recreating the solution. 
-• Received solute success & employee of the month award to guide & support the team during production migration tasks. 
-• Received 1st runner up award at indoor carom competition  • Hobbies involves Playing Casio, Guitar, flute in instruments. 
-
+<ul>
+<li>Received exceed expectation & employee of the month award for the contribution of preparing method of procedure to support geo-redundancy as of need of customer.</li>
+<li>Received exceed expectation & employee of the month award for supporting customer in triage situation to recover the lost data & recreating the solution. </li>
+<li>Received solute success & employee of the month award to guide & support the team during production migration tasks. </li>
+<li>Received 1st runner up award at indoor carom competition  • Hobbies involves Playing Casio, Guitar, flute in instruments. </li>
+</ul>
 #### Hobbies
-• Playing Carom, Table tennis in sports. 
+<ul>
+<li>Playing Carom, Table tennis in sports.</li> 
+</ul>
