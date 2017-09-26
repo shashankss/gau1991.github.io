@@ -91,7 +91,7 @@ May 2009 – June 2013 | Sangli Area, India
  
        VCS platform  
         GIT, SVN 
-<br>
+
 
 #### Honor and Awards:
 • Received exceed expectation & employee of the month award for the contribution of preparing method of procedure to support geo-redundancy as of need of customer.
