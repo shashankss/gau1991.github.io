@@ -12,10 +12,10 @@ Male, 25
 #### Work Experience:
 
 ##### Technical Account/Support Engineer 
-at <a style="color: #428bca" href="http://sigma-systems.com/">sigma-systems.com</a><br>
+at <a style="color: #428bca" href="http://sigma-systems.com/"><b>sigma-systems.com</b></a><br>
 June 2014 – Present | Pune Area, India
 <ul>
-Total 3 + years of experience under global Services for managing customer accounts and Support services as a Technical Account/Support Engineer in Sigma OSS Systems India.
+<li>Total 3 + years of experience under global Services for managing customer accounts and Support services as a Technical Account/Support Engineer in Sigma OSS Systems India.</li>
  
 <li>Good knowledge of OSS and networking Domain. Experience of working on various Telecom and networking technologies like DHCP, TFTP, VOIP, SIP</li>
 <li>Good Understanding of Java application support in regard to environment configurations and setup</li> 
@@ -36,8 +36,10 @@ Total 3 + years of experience under global Services for managing customer accoun
 <li>Currently handling 10+ accounts for Sigma Systems.</li>
 </ul>
 
+<br>
 
 #### Projects:
+
 <h5><a style="color: #428bca">NCS_to_SIP Migration</a></h5>
 
 •   Project Involved Migrating customer from VOICE protocol to new SIP protocol with supporting calling feature.
