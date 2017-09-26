@@ -61,7 +61,7 @@ June 2014 – Present | Pune Area, India
 
 <br>
 
-<h5><b>Migration & upgrade  </b></h5>
+<h5><b><a style="color: #428bca">Migration & upgrade </a></b></h5>
 
 • Upgrade involved Migration from Solaris to Linux, identified the changes involved or need to be done accordingly. 
 • Performed & supported testing during development phases. • Delivered the solution to the customer.
@@ -92,7 +92,7 @@ May 2009 – June 2013 | Sangli Area, India
        Docker beginner. 
  
        VCS platform  
-        GIT, SVN 
+       GIT, SVN 
 
 
 #### Honor and Awards:
