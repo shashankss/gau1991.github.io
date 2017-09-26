@@ -12,27 +12,29 @@ Male, 25
 #### Work Experience:
 
 ##### Technical Account/Support Engineer 
-at <a style="color: #428bca" href="https://rtcamp.com">rtcamp.com</a><br>
+at <a style="color: #428bca" href="http://sigma-systems.com/">sigma-systems.com</a><br>
 June 2014 – Present | Pune Area, India
-
-•	Total 3 + years of experience under global Services for managing customer accounts and Support services as a Technical Account/Support Engineer in Sigma OSS Systems India.
-•	Good knowledge of OSS and networking Domain. Experience of working on various Telecom and networking technologies like DHCP, TFTP, VOIP, SIP
-•	Good Understanding of Java application support in regard to environment configurations and setup 
-•	Experience in Monitoring and updating Tickets (issues) through Incident management system based on ITIL Process
-•	Responsible for the acceptance, triage and resolution of customer reported incidents with complete RCA.  
-•	Performing Health checks on day to day basis and weekends.
-•	Generate daily, weekly, monthly reports for CPU, Memory, and Disk and provide the analysis & recommendations on the same
-•	Automate deployment processes to reduce human errors. 
-•	Engaged at the account level in providing recommendations and proactive advice through all phases of the implementation life cycle
-•	Provide detailed reviews of service disruptions, metrics, detailed prelaunch planning with preparing Method of procedure guidelines for customer.
-•	Delivery and deployment of product to Customer environments like UAT and Production. 
-•	Planning delivery of patches, builds & Hotfix in closely with clients.
-•	Work with Development, QA, and BSA for successful delivery of solution.
-•	Handling UAT calls with client & addressing all issues during UAT phase to development team in order to avoid issues in production
-•	Provide all necessary support to QA, Development team for any environment & related issues. 
-•	Preparing documen	ts for customers related to new release which includes release notes and Deployment document
-•	Documenting Patch update document and publishing its updates.
-•	Currently handling 10+ accounts for Sigma Systems.
+<ul>
+Total 3 + years of experience under global Services for managing customer accounts and Support services as a Technical Account/Support Engineer in Sigma OSS Systems India.
+ 
+<li>Good knowledge of OSS and networking Domain. Experience of working on various Telecom and networking technologies like DHCP, TFTP, VOIP, SIP</li>
+<li>Good Understanding of Java application support in regard to environment configurations and setup</li> 
+<li>Experience in Monitoring and updating Tickets (issues) through Incident management system based on ITIL Process</li>
+<li>Responsible for the acceptance, triage and resolution of customer reported incidents with complete RCA. </li> 
+<li>Performing Health checks on day to day basis and weekends.</li>
+<li>Generate daily, weekly, monthly reports for CPU, Memory, and Disk and provide the analysis & recommendations on the same</li>
+<li>Automate deployment processes to reduce human errors. </li>
+<li>Engaged at the account level in providing recommendations and proactive advice through all phases of the implementation life cycle</li>
+<li>Provide detailed reviews of service disruptions, metrics, detailed prelaunch planning with preparing Method of procedure guidelines for customer.</li>
+<li>Delivery and deployment of product to Customer environments like UAT and Production. </li>
+<li>Planning delivery of patches, builds & Hotfix in closely with clients.</li>
+<li>Work with Development, QA, and BSA for successful delivery of solution.</li>
+<li>Handling UAT calls with client & addressing all issues during UAT phase to development team in order to avoid issues in production</li>
+<li>Provide all necessary support to QA, Development team for any environment & related issues.</li> 
+<li>Preparing documen	ts for customers related to new release which includes release notes and Deployment document</li>
+<li>Documenting Patch update document and publishing its updates.</li>
+<li>Currently handling 10+ accounts for Sigma Systems.</li>
+</ul>
 
 
 #### Projects:
