@@ -4,63 +4,76 @@ title: Resume
 permalink: /resume/
 ---
 
-#### Professional:
+Shashank Sonawane 
+ 
+Male, 25 
 
-##### Linux System Administrator
-at <a style="color: #428bca" href="https://rtcamp.com">rtcamp.com</a><br>
-May 2014 – Present | Pune Area, India
 
-* Extensive experience as Linux (Ubuntu, Debian, Fedora, RHEL, CentOS, Backtrack) Server/System Administrator.
-* Expertise in Linux Server/System installation, configuration, administration, troubleshooting, monitoring and backup & recovery methodologies.
-* Working with various server softwares such as Nginx, PHP, MySQL, GIT
-* Setup and Deploy various build tools such as Jenkins and Travis-CI
-* Develope and Maintaine EasyEngine to automate WordPress setup in different types on Debian/Ubuntu based Linux Servers in Python and Shell Script.
-* Build Nginx and PHP packages for Debian
-* Configure and setup various CMS such as WordPress, Discourse
-* Configure and Troubleshoot GIT and Gitlab
+#### Work Experience:
+
+##### Technical Account/Support Engineer 
+at <a style="color: #428bca" href="http://sigma-systems.com/"><b>sigma-systems.com</b></a><br>
+June 2014 – Present | Pune Area, India
+<ul>
+<li>Total 3 + years of experience under global Services for managing customer accounts and Support services as a Technical Account/Support Engineer in Sigma OSS Systems India.</li>
+ 
+<li>Good knowledge of OSS and networking Domain. Experience of working on various Telecom and networking technologies like DHCP, TFTP, VOIP, SIP</li>
+<li>Good Understanding of Java application support in regard to environment configurations and setup</li> 
+<li>Experience in Monitoring and updating Tickets (issues) through Incident management system based on ITIL Process</li>
+<li>Responsible for the acceptance, triage and resolution of customer reported incidents with complete RCA. </li> 
+<li>Performing Health checks on day to day basis and weekends.</li>
+<li>Generate daily, weekly, monthly reports for CPU, Memory, and Disk and provide the analysis & recommendations on the same</li>
+<li>Automate deployment processes to reduce human errors. </li>
+<li>Engaged at the account level in providing recommendations and proactive advice through all phases of the implementation life cycle</li>
+<li>Provide detailed reviews of service disruptions, metrics, detailed prelaunch planning with preparing Method of procedure guidelines for customer.</li>
+<li>Delivery and deployment of product to Customer environments like UAT and Production. </li>
+<li>Planning delivery of patches, builds & Hotfix in closely with clients.</li>
+<li>Work with Development, QA, and BSA for successful delivery of solution.</li>
+<li>Handling UAT calls with client & addressing all issues during UAT phase to development team in order to avoid issues in production</li>
+<li>Provide all necessary support to QA, Development team for any environment & related issues.</li> 
+<li>Preparing documen	ts for customers related to new release which includes release notes and Deployment document</li>
+<li>Documenting Patch update document and publishing its updates.</li>
+<li>Currently handling 10+ accounts for Sigma Systems.</li>
+</ul>
 
 <br>
-
-##### System Administrator
-at <a style="color: #428bca" href="http://tcs.com">TCS</a><br>
-July 2013 – May 2014 | Pune Area, India
-
-* Real time server administration, monitoring, backup and recovery
-* Automate day to day task using Shell Script
-* Develop, configure and deploy various PHP based applications
-
-<br>
-
 
 #### Projects:
-<h5><a style="color: #428bca" href="https://easyengine.io">EasyEngine (ee)</a></h5>
 
-* EasyEngine (ee) is a command line control panel to setup NGINX server on Debian/Ubuntu Linux distribution for HTML, PHP, MySQL, HHVM, PageSpeed and WordPress websites.
-* Complete Setup - Install NGINX, PHP, MySQL, Postfix and dependencies in a single command.
-* HHVM & PageSpeed Support - Boost WordPress sites by enabling HHVM and PageSpeed using a single command.
-* Caching Options - Use W3Total Cache, WP Super Cache, Nginx’s FastCGI Cache and Redis Cache.
-* Config Optimization - Automatically tweaks server configuration as per available hardware resources.
-* Git-Backed Changes - All config changes are saved using Git so feel free to play with config!
+<h5><a style="color: #428bca">NCS_to_SIP Migration</a></h5>
 
-<br>
+•  Project Involved Migrating customer from VOICE protocol to new SIP protocol with supporting calling feature.
+•  Patch deployment on all customer env(local/UAT/Prod)
+•	Configuring SIP related changes
+•	Identifying the gaps & troubleshooting the issue for successful delivery as a part of post deployment support.
+•	Supported QA in solution testing, to build quality solution.
+•	Identifying Customer expectations and conveying the same across the all dept.
 
-<h5><b><a style="color: #428bca" href="http://www.doudoulinux.org">DoudouLinux</a></b></h5>
-
-* DoudouLinux is specially designed for children to make computer use as easy and pleasant as possible for them
-* DoudouLinux provides tens of applications that suit children from 2 to 12 years old and gives them an environment as easy to use as a gaming console.
 
 <br>
 
-<h5><b>Pragat Cluster Automation Toolkit</b></h5>
+<h5><b><a style="color: #428bca">CWC resiliency support & CMTS Move</a></b></h5>
 
-* Python and PHP based Automation Toolkit to Mass deploy Cent OS based OpenMPI clusters.
-* Pragat cluster automation toolkit is part of DRDO subproject
+• Identified the out of box solution to deliver the expectation of the customer by performing research on the task involved. Developed scripts for the migration, assuming all the hindering factors.
+• implemented, tested and delivered the solution across the market. 
+• Migrated ~96k Subscribers  
+• Supported all the production issue post go live.
+
+<br>
+
+<h5><a style="color: #428bca">Migration & upgrade</a></h5>
+
+
+• Upgrade involved Migration from Solaris to Linux, identified the changes involved or need to be done accordingly. 
+• Performed & supported testing during development phases. • Delivered the solution to the customer.
+• Identified the post production issues, maintained proper communication within team & customer. 
+• Successfully delivered the solution
 
 <br>
 
 #### Education:
 
-##### Bachelor of Technologies in Information Technology
+##### Bachelor of Technologie in Computer Science and Engineering.
 at <a style="color: #428bca" href="">Walchand College Of Engineering</a><br>
 May 2009 – June 2013 | Sangli Area, India
 
@@ -68,37 +81,30 @@ May 2009 – June 2013 | Sangli Area, India
 
 #### Skills:
 
-##### Cloud Services:
+       Languages-  
+       Shell Scripting, Pl-SQL 
+       Python beginner. 
+ 
+       Operating Systems    
+       Linux, Solaris 
+ 
+       Virtualization Platform 
+       VMware, Oracle virtual box, 
+       Docker beginner. 
+ 
+       VCS platform  
+       GIT, SVN 
 
-Google Cloud, Amazon Web Services, Linode, Digital Ocean.
-
-##### Virtualization Platforms:
-
-Vagrant, Docker
-
-##### Conitnous Integration tools:
-
-Jenkins, Gitlab CI, Travis
-
-##### Version Control Platforms:
-
-Git,  SVN
-
-##### Content Management Systems:
-WordPress, Gitlab, Discourse
-
-##### Server Management:
-Nginx, PHP, HHVM, MariaDB
-
-##### Languages:
-Python, Shell Script, PHP, CSS, HTML, C/C++
-
-#####  System Administrator:
-Ubuntu, Debian
-
-<br>
 
 #### Honor and Awards:
-* Employee Of the Month in TCS - April 2014
-* ILP Kudos during in TCS Training - Sep 2013
-* Student Of the Year in Dept. Of Information Technology - May 2013
+<ul>
+<li>Received exceed expectation & employee of the month award for the contribution of preparing method of procedure to support geo-redundancy as of need of customer.</li>
+<li>Received exceed expectation & employee of the month award for supporting customer in triage situation to recover the lost data & recreating the solution. </li>
+<li>Received salute success & employee of the month award to guide & support the team during production migration tasks. </li>
+<li>Received 1st runner up award at indoor carom competition   </li>
+</ul>
+#### Hobbies
+<ul>
+<li>Playing Carom, Table tennis in sports.</li> 
+<li>Hobbies involves Playing Casio, Guitar, flute in instruments.</li> 
+</ul>
